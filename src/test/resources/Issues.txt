@@ -1,0 +1,14 @@
+ISSUES WITH Current Implementation :
+
+1) Not Working with  CAPITAL CHARCTER
+2) NOT WORKING IF LENGHT IS 4
+3) INSERATION ORDER IS NOT MAINTAINED
+4) if same string Inserted 2 TImes Not Mentione dwhat to do ?
+
+ENHANCEMENT :
+1) created new method of vovels with LinkedList And LInked HAshmap  (to ensure Inserstion order is maintained )
+2) Parameterized the function For Code Reuseablity .
+3) Created 2 seperated method for Vowel and Consonants .
+
+Drawback of Enhancement :
+Used the Linked HashMap:  Time Complexity increase to NLOGN (but it is not that bad  )
