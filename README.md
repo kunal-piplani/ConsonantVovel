@@ -39,3 +39,52 @@ Bonus points if you can add failing test cases for the bugs you find.
 ## Time limits
 
 There are no hard time limits. We suggest not to spend more than ~2 hours.
+
+#################################################################################################################
+# Cucumber Test Framework
+## Author_Kunal_
+#################################################################################################################
+This is automation test Framework to Verify the consonant and Vowel Count In the Framework.
+## Framework Details
+
+- Maven
+- Cucumber
+
+##Cucumber  Features
+
+- verify Vowel and Consonant  in the String(Positive Scenario)
+-  verify Vowels in the String greater than 4 Length
+- verify Vowels in the String  0 Length(Negative Scenario)
+
+## dependencies Used
+1) cucumber-java version : 1.0.2
+2) cucumber-junit version : 1.0.2
+3) junit version :  4.10
+
+## Installation
+
+Framework Requires Maven project to be imported 
+
+below are the commands .
+
+```sh
+import maven Project 
+Run Runner File inside src/test/java 
+```
+## Issues 
+issues are in file src/test/resources
+## Questions 
+Questions are in file src/test/resources
+## Future Enhancement 
+
+- need to integrate the project in CI/CD pipeline. 
+- need to work on parallel execution of Test Cases.
+- retry of failure test cases .
+
+## Reporting
+- report can be found in target/cucumber/index.html
+
+
+
+
+
