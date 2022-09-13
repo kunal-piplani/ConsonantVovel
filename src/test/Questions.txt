@@ -1,0 +1,6 @@
+1) need clarification on Capital and Lowercase String
+2) what if user enter a String With Number
+3) what if User enter String with Special Character
+4) If String do not contains any Vowels and Consonants.
+5) do we need to catch the exception if length is less than 4 character and if yes (what specific information do we have to show ).
+6)
